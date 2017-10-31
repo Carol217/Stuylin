@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://media.giphy.com/media/vtiZDfso80MSI/giphy.gif")
+    background-color: 000000;
+}
+
+h1 {
+    color: ff00ff;
+    font: "Courier New", Courier, monospace;
+}
+
+h2 {
+    color: ffff00;
+}
