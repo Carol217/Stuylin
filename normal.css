@@ -3,11 +3,13 @@ body{
     background-color: #000000;
     color: #ffffff;
     font-family: "Courier New";
-    padding-left: 10px;
+    padding-left: 20px;
 }
 
 h1 {
+    text-align: center;
     color: gold;
+    font-size: 80px;
 }
 
 h2 {
@@ -22,4 +24,13 @@ a {
     color: hotpink;
 }
 
+p {
+    border: 3px solid gold;
+    padding: 30px;
+    margin: 20px;
+}
+
+a:hover{
+    cursor:help;
+}
 

@@ -28,6 +28,7 @@ a:visisted{
 
 a:hover{
     color: white;
+    cursor: help;
 }
 
 
