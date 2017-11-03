@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://media.giphy.com/media/vtiZDfso80MSI/giphy.gif");
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Courier New";
+    padding-left: 10px;
+}
+
+h1 {
+    color: gold;
+}
+
+h2 {
+    color: goldenrod;
+}
+
+h3 {
+    color: orange;
+}
+
+a {
+    color: hotpink;
+}
+
+

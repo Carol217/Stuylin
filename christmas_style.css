@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://media.giphy.com/media/CkBzt6qXCCXw4/giphy.gif");
+    background-color: #ffffff;
+    color: forestgreen;
+    font-family: "Courier New";
+    padding-left: 10px;
+}
+
+.extreme {
+    color: crimson;
+}
+
+.content {
+    color: darkred;
+}
+
+.navzone {
+    color: indianred;
+}
+
+a:link {
+    color: green;
+}
+
+a:visisted{
+    color: red;
+}
+
+a:hover{
+    color: white;
+}
+
+
