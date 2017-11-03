@@ -1,25 +1,32 @@
 body{
-    background-image: url("https://media.giphy.com/media/vtiZDfso80MSI/giphy.gif");
+    background-image: url("http://bsnscb.com/data/out/193/27175491-tech-wallpapers.png");
     background-color: #000000;
     color: #ffffff;
     font-family: "Courier New";
-    padding-left: 10px;
+    padding: 10px;
 }
 
-h1 {
+.extreme {
+    text-align: center;
     color: gold;
+    font-size: 75px;
+    letter-spacing: 5px;
 }
 
-h2 {
+.content {
     color: goldenrod;
+    border: 3px solid powderblue;
+    padding: 30px;
+    margin: 20px;
 }
 
-h3 {
+.navzone {
     color: orange;
 }
 
 a {
     color: hotpink;
+    cursor: cell;
 }
 
 

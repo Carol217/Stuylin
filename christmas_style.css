@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://media.giphy.com/media/CkBzt6qXCCXw4/giphy.gif");
+    background-image: url("http://www.designbolts.com/wp-content/uploads/2013/12/Free-Christmas-Blue-Background.png");
     background-color: #ffffff;
     color: forestgreen;
     font-family: "Courier New";
@@ -7,7 +7,10 @@ body{
 }
 
 .extreme {
+    text-align: right;
     color: crimson;
+    font-size: 80px;
+    letter-spacing: -1px;
 }
 
 .content {
@@ -28,6 +31,11 @@ a:visisted{
 
 a:hover{
     color: white;
+    cursor: help;
 }
 
-
+p {
+    border: 3px dotted hotpink;
+    padding: 30px;
+    margin: 20px;
+}
